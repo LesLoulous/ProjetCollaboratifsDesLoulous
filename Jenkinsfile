@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Checkout Github'){
 			steps {
-				git credentialsId: 'jenkins', url: 'https://github.com/jeremiel17/afec.git'
+				git credentialsId: 'jenkins', url: 'https://github.com/LesLoulous/ProjetCollaboratifsDesLoulous.git'
 			}
 		}
 		stage('Déploiement') {
