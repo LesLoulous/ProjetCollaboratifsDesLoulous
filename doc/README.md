@@ -10,6 +10,12 @@ Par exemple tu peux créer un article pour:
 - Tu as codé une librairie et tu souhaites expliquer aux autres comment l'utiliser.
 - ...
 
+<br>
+
+🔗 [Accéder au site principal lesloulous.dev](https://lesloulous.dev)  
+Ce lien pointe vers **la racine du dépôt Git**.  
+Après un `git push` sur la branche `master`, **Le site s'actualise automatiquement** au bout de quelques secondes.
+
 <br><br>
 
 ## Pages des articles
