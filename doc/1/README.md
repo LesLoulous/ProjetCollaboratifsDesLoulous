@@ -13,25 +13,18 @@ Tout d'abord, tu dois cloner le dépôt collectif en local avec la commande suiv
 git clone https://github.com/LesLoulous/ProjetCollaboratifsDesLoulous.git
 ```
 
-## 2. Se déplacer sur la branche `dev`
-Après le clonage, bascule sur la branche de développement (`dev`) :
-
-```sh
-git checkout origin/dev
-```
-
 ## 3. Créer et aller sur ta branche perso
-Crée et bascule directement sur ta propre branche à partir de `dev`. Remplace `MYNAME` par ton pseudo :
+Crée et bascule directement sur ta propre branche à partir de `master`. Remplace `Monnom` par ton pseudo :
 
 ```sh
-git checkout -b dev-MYNAME
+git checkout -b DevMonnom
 ```
 
 ## 4. Envoyer ta branche perso sur le dépôt collectif
 Enfin, pousse ta nouvelle branche vers le dépôt distant pour la rendre accessible aux autres :
 
 ```sh
-git push origin dev-MYNAME
+git push origin DevMonnom
 ```
 
 Ta branche est maintenant disponible sur le dépôt collectif, et tu peux commencer à travailler dessus ! 🎉
