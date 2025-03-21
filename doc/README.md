@@ -14,7 +14,7 @@ Par exemple tu peux créer un article pour:
 
 🔗 [Accéder au site principal lesloulous.dev](https://lesloulous.dev)  
 Ce lien pointe vers **la racine du dépôt Git**.  
-Après un `git push` sur la branche `master`, **Le site s'actualise automatiquement** au bout de quelques secondes.
+Après un `git push` sur la branche `master`, **le site s'actualise automatiquement** au bout de quelques secondes.
 
 <br><br>
 
