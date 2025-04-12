@@ -21,5 +21,5 @@ Après un `git push` sur la branche `master`, **le site s'actualise automatiquem
 ## Pages des articles
 *(Éditez ce `README.md` pour ajouter vos liens)*
 
-- [Comment utiliser le dépôt collectif](/1)
-- [Comment poster dans la doc](/2)  
+- [Comment utiliser le dépôt collectif](/doc/1)
+- [Comment poster dans la doc](/doc/2)  
